@@ -27,6 +27,8 @@ Okay, if everything has been set up, let's proceed to the next step. Below is th
 - **Conversational Chain**: For the conversational capabilities, we'll employ the Langchain interface for the Llama-2 model, which is served using Ollama. This setup promises a seamless and engaging conversational flow.
 - **Speech Synthesizer**: The transformation of text to speech is achieved through Bark, a state-of-the-art model from Suno AI, renowned for its lifelike speech production.
 The workflow is straightforward: record speech, transcribe to text, generate a response using an LLM, and vocalize the response using Bark.
+>
+>
 ![Application-Architecture](https://github.com/Vignesh010101/Speaking-LLM/assets/68474341/6835b1cc-d689-4dd9-96fb-287ac79f2fbc)
 
 
