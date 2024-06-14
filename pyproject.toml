@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "local-talking-llm"
+name = "Speaking-LLM"
 version = "0.1.0"
 description = ""
-authors = ["Duy Huynh <vndee.huynh@gmail.com>"]
+authors = ["Vignesh <vignesh.1010101010@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
