@@ -1,7 +1,9 @@
 ## Build your own voice assistant and run it locally: Whisper + Ollama + Bark
 
 > 
-After my latest post about how to build your own RAG and run it locally. Today, we're taking it a step further by not only implementing the conversational abilities of large language models but also adding listening and speaking capabilities. The idea is straightforward: we are going to create a voice assistant reminiscent of Jarvis or Friday from the iconic Iron Man movies, which can operate offline on your computer. Since this is an introductory tutorial, I will implement it in Python and keep it simple enough for beginners. 
+After my latest post about how to build your own RAG and run it locally. Today, we're taking it a step further by not only implementing the conversational abilities of large language models but also adding listening and speaking capabilities. The idea is straightforward: we are going to create a voice assistant reminiscent of Jarvis or Friday from the iconic Iron Man movies, which can operate offline on your computer. Since this is an introductory tutorial, I will implement it in Python and keep it simple enough for beginners.
+>
+> 
 ![Speaking LLM](https://github.com/Vignesh010101/Speaking-LLM/assets/68474341/bbf95573-f6d3-4d85-8526-cded859cece5)
 
 
